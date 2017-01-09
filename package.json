@@ -1,0 +1,27 @@
+{
+  "name": "starwarn",
+  "version": "1.0.0",
+  "description": "get random star war name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanngo/StarWarN.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "war"
+  ],
+  "author": "'tanngo_1303@yahoo.com' <'tanngo_1303@yahoo.com'> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanngo/StarWarN/issues"
+  },
+  "homepage": "https://github.com/tanngo/StarWarN#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
